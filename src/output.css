@@ -990,8 +990,8 @@ html {
   padding-bottom: 50px;
 }
 
-.pl-\[8px\] {
-  padding-left: 8px;
+.pl-\[2px\] {
+  padding-left: 2px;
 }
 
 .pt-\[150px\] {
@@ -1006,16 +1006,12 @@ html {
   padding-top: 20px;
 }
 
-.pt-\[80px\] {
-  padding-top: 80px;
-}
-
-.pl-\[2px\] {
-  padding-left: 2px;
-}
-
 .pt-\[2px\] {
   padding-top: 2px;
+}
+
+.pt-\[80px\] {
+  padding-top: 80px;
 }
 
 .text-center {
