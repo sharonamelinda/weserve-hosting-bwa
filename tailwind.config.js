@@ -12,7 +12,8 @@ module.exports = {
       },
       fontFamily: {
         'clash-display': 'Clash Display, sans-serif'
-      }
+      },
+      display: ["group-hover"],
     },
   },
   plugins: [],
